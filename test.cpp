@@ -1,7 +1,7 @@
 #include <windows.h>
 #include <iostream>
 
-//comment
+//conflict
 
 int main(){
 	TCHAR = tc;
